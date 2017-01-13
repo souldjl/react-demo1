@@ -1,3 +1,4 @@
-# react_demo
-an example of react
-  //实现一个react-demo;留言板功能
+###该组件完成留言板列表;该列表由以下几个组件组成：
+######1.commment.list
+######2.comment.form
+######3.comment.box
