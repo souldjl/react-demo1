@@ -7,5 +7,5 @@
 ###项目运行    
         下载安装包后，先安装依赖('npm install')，完成后执行'browser-sync start --server --no-notify --files ‘index.html，app/**/*.js' 
 ###实现效果如下：
-![](http://cdn.attach.qdfuns.com/notes/pics/201701/13/113138bl5r965l89xpx436.png)
+![](https://github.com/souldjl/react_demo/1.png)
 -----
