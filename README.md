@@ -8,4 +8,4 @@
 ![](https://github.com/souldjl/react-demo1/raw/master/1.png)
 -----
 ###项目运行    
-        下载安装包后，先安装依赖('npm install')，完成后执行'browser-sync start --server --no-notify --files ‘index.html，app/**/*.js' 
+        先安装依赖('npm install')，完成后执行'browser-sync start --server --no-notify --files ‘index.html，app/**/*.js' 
